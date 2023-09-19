@@ -23,10 +23,6 @@ body:
     validations:
       required: false
       label: List issues in this epic
-external_links:
-  - name: Task list to issues
-    url: https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists#about-issue-task-lists
-    about: Information about working with tasks
   - type: textarea
     id: other-info
     attributes:
@@ -36,3 +32,7 @@ external_links:
         Slack channel = #data-platform-epic-name
     validations:
       required: false
+external_links:
+  - name: Task list to issues
+    url: https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists#about-issue-task-lists
+    about: Information about working with tasks
