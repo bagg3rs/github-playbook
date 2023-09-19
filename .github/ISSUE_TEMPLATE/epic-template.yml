@@ -17,10 +17,9 @@ body:
     attributes:
       description: List issues in this epic
       label: List issues in this epic
-      value:
-          ## List issues in this epic see [here](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists#about-issue-task-lists) for turning tasks into issues
+      value: "List issues in this epic see [here](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists#about-issue-task-lists) for turning tasks into issues
                 - [ ] #1 
-                - [ ] #2
+                - [ ] #2 "
     validations:
       required: false
   - type: textarea
