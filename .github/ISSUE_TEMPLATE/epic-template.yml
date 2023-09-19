@@ -16,7 +16,7 @@ body:
     id: list-issues
     attributes:
       description: List issues in this epic
-      label: List issues in this epic [here](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists#about-issue-task-lists) for turning tasks into issues
+      label: List issues in this epic
       value: "- [ ] #1
       
                - [ ] #2 "
