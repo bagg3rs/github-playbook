@@ -16,8 +16,8 @@ body:
     id: list-issues
     attributes:
       description: List issues in this epic
-      label: List issues in this epic
-      value: "List issues in this epic see [here](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists#about-issue-task-lists) for turning tasks into issues
+      label: List issues in this epic [here](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists#about-issue-task-lists) for turning tasks into issues
+      value: "
                 - [ ] #1 
                 - [ ] #2 "
     validations:
@@ -28,7 +28,6 @@ body:
       description: Other information
       label: Other information
       value:
-        Example
-        - [ ] Slack channel
+        Slack channel = #data-platform-epic-name
     validations:
       required: false
