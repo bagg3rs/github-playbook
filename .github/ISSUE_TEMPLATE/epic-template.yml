@@ -15,7 +15,12 @@ body:
   - type: textarea
     id: list-issues
     attributes:
-      description: List of issues in this epic
+      description: Add issues by using hash then issue number
+      contact_links:
+contact_links:
+  - name: GitHub Community Support
+    url: https://github.com/orgs/community/discussions
+    about: Please ask and answer questions here.
       label: List issues in this epic
       value: "- [ ] #1
       
