@@ -32,7 +32,3 @@ body:
         Slack channel = #data-platform-epic-name
     validations:
       required: false
-contact_links:
-  - name: Task list to issues
-    url: https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists#about-issue-task-lists
-    about: Information about working with tasks
