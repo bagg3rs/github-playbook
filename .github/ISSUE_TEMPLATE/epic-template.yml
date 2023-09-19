@@ -1,0 +1,23 @@
+name: 🗃️ Data Platform Epic
+description: 📖 Create new Data Platform Epic
+title: "[gitmoji] <title>"
+labels: ["Epic"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please fill out the fields below.
+  - type: textarea
+    id: describe-epic
+    attributes:
+      label: Brief summary of what this Epic is
+      placeholder: "As a… *[who is the user?]*
+
+                    ## List issues in this epic
+
+                    ## List issues in this epic see [here](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists#about-issue-task-lists) for turning tasks into issues
+                          - [ ] #1 
+                          - [ ] #2
+                          ## Other information
+
+                          - link to dedicated slack channel e.g. #data-platform-epicname "
