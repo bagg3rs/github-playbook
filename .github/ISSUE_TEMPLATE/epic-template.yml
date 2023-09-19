@@ -15,14 +15,13 @@ body:
   - type: textarea
     id: list-issues
     attributes:
-      description: Add issues by using hash then issue number
-      contact_links:
+      description: List of issues in this epic
+      label: List issues in this epic
       value: "- [ ] #1
       
                - [ ] #2 "
     validations:
       required: false
-      label: List issues in this epic
   - type: textarea
     id: other-info
     attributes:
