@@ -15,7 +15,7 @@ body:
   - type: textarea
     id: list-issues
     attributes:
-      description: List issues in this epic
+      description: List of issues in this epic
       label: List issues in this epic
       value: "- [ ] #1
       
