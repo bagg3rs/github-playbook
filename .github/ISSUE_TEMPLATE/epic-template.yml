@@ -1,5 +1,5 @@
 name: Data Platform Epic
-description: Creates a Data Platform Epic
+description: 🗃️ Creates a Data Platform Epic
 title: "[gitmoji] <title>"
 labels: ["Epic"]
 body:
@@ -27,6 +27,6 @@ body:
     attributes:
       description: Any other useful information
       label:  Other information
-      value: Slack channel = #data-platform-epic-name
+      placeholder: "Slack channel = #data-platform-epic-name"
     validations:
       required: false
