@@ -1,6 +1,6 @@
 ---
-name: Data Platform Epic
-description: 🗃️ Creates a Data Platform Epic
+name: Epic
+description: 🗃️ Creates a Epic
 title: "[gitmoji] <title>"
 labels: ["Epic"]
 body:
